@@ -131,6 +131,3 @@ Contributions, forks, and improvements are welcome!
 ---
 
 ⭐ **If you like Tone Tracer, please consider giving the repository a star!**
-
-```
-
