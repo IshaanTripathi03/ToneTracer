@@ -53,8 +53,8 @@ Tone-Tracer/
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/Tone-Tracer.git
-cd Tone-Tracer
+git clone https://github.com/IshaanTripathi03/ToneTracer.git
+cd ToneTracer
 ````
 
 Install dependencies:
